@@ -4,7 +4,7 @@
 
 关于源码项目的相关问题可以联系我们交流： 【QQ 979748385 QQ群 601569450】 
 
-- 微信公众号(爱毕设)
+- 微信扫一扫 (爱毕设) 获取源码
 
 ![qrcode_for_gh_0f10658cd7ee_430](https://github.com/hjsdjko/onlyzaixianshangcheng/assets/120558513/edfc28fc-d9df-4e81-ac62-d02aa360e379)
 
